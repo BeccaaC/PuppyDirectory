@@ -1,0 +1,62 @@
+body {
+    background-color: lightskyblue;
+    color: black;
+    font-size: 20px;
+    font-family: "Courier New", Courier, monospace;
+  }
+
+h1 {
+    font-size: 40px; 
+    text-align: center;
+    font-family: "Brush Script MT", cursive;
+}
+
+.Pomeranian {
+  max-width: 150;
+  max-height: 150px;
+  width: auto;
+  height: auto;
+}
+
+.Samoyed {
+  max-width: 300px;
+  width: auto;
+  height: auto;
+}
+
+.Shiba {
+  max-width: 200px;
+  width: auto;
+  height: auto;
+}
+
+.golden {
+  max-width: 200px;
+  width: auto;
+  height: auto;
+
+}
+
+.Puppyplayground{
+  display: flex;
+  background-color: lightpink;
+  border-radius: 20px;
+  justify-content: center;
+  align-content: space-between;
+  flex-direction: row;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.infocontainer {
+  display: flex;
+  background-color: lightpink;
+  border-radius: 20px;
+  justify-content: center;
+  align-content: space-between;
+  flex-direction: row;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 30px;
+  
+}
