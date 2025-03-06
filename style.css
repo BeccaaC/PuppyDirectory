@@ -39,7 +39,7 @@ h1 {
 
 .Puppyplayground{
   display: flex;
-  background-color: lightpink;
+  background-color: white;
   border-radius: 20px;
   justify-content: center;
   align-content: space-between;
@@ -50,7 +50,7 @@ h1 {
 
 .infocontainer {
   display: flex;
-  background-color: lightpink;
+  background-color: white;
   border-radius: 20px;
   justify-content: center;
   align-content: space-between;
