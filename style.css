@@ -64,3 +64,10 @@ h1 {
 .destext {
   width: 40%;
 }
+
+.navbar {
+  position: sticky;
+  top: 0;
+  justify-content: flex-end
+
+}
